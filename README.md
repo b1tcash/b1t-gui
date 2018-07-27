@@ -6,7 +6,7 @@ Copyright (c) 2014-2018, B1TCASH, The Monero Project
 
 - Web: [b1t.cash](http://b1t.cash)
 - Bitcointalk: https://bitcointalk.org/index.php?topic=2092537.0
-- Github: [https://github.com/b1tcash/b1t](https://github.com/b1tcash/b1t)
+- Github: [https://github.com/b1tcash/b1tcash-gui](https://github.com/b1tcash/b1tcash-gui)
 
 ## Vulnerability response
 
@@ -82,7 +82,7 @@ Packaging for your favorite distribution would be a welcome contribution!
 
 2. Grab an up-to-date copy of the b1tcash-gui repository
 
-	`git clone https://github.com/b1tcash/b1t.git`
+	`git clone https://github.com/b1tcash/b1tcash-gui.git`
 
 3. Go into the repository
 
@@ -166,7 +166,7 @@ The executable can be found in the build/release/bin folder.
 
 6. Grab an up-to-date copy of the b1tcash-gui repository
 
-  `git clone https://github.com/b1tcash/b1t.git`
+  `git clone https://github.com/b1tcash/b1tcash-gui.git`
 
 7. Go into the repository
 
@@ -224,7 +224,7 @@ The B1tcash GUI on Windows is 64 bits only; 32-bit Windows GUI builds are not of
 6. Clone repository
 
     ```
-    git clone https://github.com/b1tcash/b1t.git
+    https://github.com/b1tcash/b1tcash-gui.git
     ```
 
 7. Build
